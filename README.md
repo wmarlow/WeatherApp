@@ -1,0 +1,1 @@
+To get this file to work I needed a config.js file. The weather app is pulling an API from openweathermap.org.
